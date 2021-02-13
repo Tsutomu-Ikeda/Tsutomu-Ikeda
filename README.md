@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=Tsutomu-Ikeda&count_private=true&theme=dark&show_icons=true)
-![github-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsutomu-Ikeda&theme=dark&hide=shell,html)
+![github-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsutomu-Ikeda&theme=dark&exclude_repo=settings)
